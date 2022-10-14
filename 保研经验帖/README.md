@@ -17,6 +17,7 @@
 * @[无与](https://www.zhihu.com/people/wu-yi-jian-64)的[2023计算机保研经历（清华软院、复旦CS、人大高瓴、南大CS等）](https://zhuanlan.zhihu.com/p/573141762)
 * @[阶段性总结](https://blog.csdn.net/weixin_45798993?type=blog)的[2022保研经验贴：华南理工大学计算机科学与工程学院 、东南大学计算机科学与工程学院等](https://blog.csdn.net/weixin_45798993/article/details/127155636)
 * @[等风来不如追风去](https://www.zhihu.com/people/shang-li-xin-85)的[2022年保研经验网安&华五&武大中山等](https://zhuanlan.zhihu.com/p/573404307)
+* @[Harris-H](https://www.zhihu.com/people/hehaohe-hao)的[2022年双非计算机保研经历分享(浙大、北航、中科院等)](https://zhuanlan.zhihu.com/p/573707010)
 
 ## 2021夏令营总结贴
 
