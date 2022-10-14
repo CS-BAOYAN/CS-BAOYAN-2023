@@ -12,6 +12,7 @@
 * @[有病吃曜](https://www.zhihu.com/people/mu-yue-ban-xian-sheng)的[23届（2022年）CS推免回忆总结](https://zhuanlan.zhihu.com/p/569393809)
 * @[王政霖LIN](https://blog.csdn.net/weixin_45781381?type=blog)的[【经验篇】2022年（2023届）我的保研经历](https://blog.csdn.net/weixin_45781381/article/details/127144804?spm=1001.2014.3001.5501)
 * @[张北北](https://tzq0301.cn/)的[2022 年计算机保研经历｜Rank 中游、无一作、竞赛少、无实习、无优质项目的中游选手｜天大云计算、南大软件所、中南计算机、中山计算机、中山软件、川大计算机](https://zhuanlan.zhihu.com/p/502719456)
+* @[Filbert](https://www.zhihu.com/people/filbert-9)的[22年计算机夏令营保研回顾-普2跨保交叉试水选手（吉林AI，华师大数据，北师AI，南大软件，人大公管，中科大科学岛）](https://zhuanlan.zhihu.com/p/560353517)、[22年-19级计算机保研形势分析（含本校情况统计）](https://zhuanlan.zhihu.com/p/570611960)
 
 ## 2021夏令营总结贴
 
