@@ -6,6 +6,7 @@
 * @[比尔](https://www.zhihu.com/people/bi-er-83-39/posts)的[2022年（2023届）计算机保研——计算所vipl、南大lamda、北大计算机、人大高瓴等](https://zhuanlan.zhihu.com/p/570001872)
 * @[Runder](https://www.zhihu.com/people/shi-shi-kan-25-20)的[2022年计算机保研经验————985实验班低rk](https://zhuanlan.zhihu.com/p/568008449)
 * @[StellarDragon](https://www.zhihu.com/people/stellardragon-43)的[2022南京大学人工智能学院本科生开放日小记【保研向】](https://zhuanlan.zhihu.com/p/543677717)
+* @[你是个好人](https://www.zhihu.com/people/ye-kong-zhong-zui-liang-de-xing-47-91-89)的[末2rk1选手的保研之路（南软、软微、人大信院、厦大信院、国防科大cs、东南cs、浙大工程师学院等）](https://zhuanlan.zhihu.com/p/569911338)
 * @[一叶风](https://www.zhihu.com/people/li-ba-shan-xi-qi-gai-shi-27-53)的[四非菜菜的惨淡CS保研经历（2022年）](https://zhuanlan.zhihu.com/p/570509998)
 * @[Pluto](https://www.zhihu.com/people/jue-chen-67-88)的[计算机保研，maybe this is all you need（普通双非学子上岸浙大工程师学院数据科学项目）](https://zhuanlan.zhihu.com/p/571961780)
 * @[timeErrors](https://www.zhihu.com/people/guo-ke-82-96-72)的[2022年（就业向）计算机保研日寄（从4月至10月共计27篇）—— 南大软件，复旦计科，浙大工程师，人大信院，北航CS，华科CS，西交SE，中山SE等](https://www.zhihu.com/column/c_1506013160984813568)
